@@ -426,7 +426,7 @@ a:hover {
    }
   
    #skills{
-    height: 140vh;
+    height: 200vh;
    }
    .boxcontainer{
     display: grid;
@@ -464,11 +464,3 @@ a:hover {
     
 }
    }
-   #experience {
-    
-    height: 120vh;
-    
-}
-#projects {
-    height: 200vh;
-}
